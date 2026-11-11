@@ -240,3 +240,5 @@ DISCLAIMER
 GameCube and Game Boy Advance are trademarks of Nintendo. This project is
 not affiliated with, endorsed by, or approved by Nintendo. The GameCube
 cube logo is redrawn in pixel art for illustrative purposes.
+
+==This repository contains AI-generated code.==
